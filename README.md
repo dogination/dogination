@@ -6,6 +6,9 @@
 ### Hi there 👋
 ## OS
 <img src="https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png" width="35"/><img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/><img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/><img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 <!--
 **dogination/dogination** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
