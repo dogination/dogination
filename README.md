@@ -25,6 +25,7 @@
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/> 
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/>
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/AND.png" width="35"/>
 </p>
 
 <h2 align="center"> ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ </h2>
