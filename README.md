@@ -6,6 +6,7 @@
 ### Hi there 👋
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
+<img src="https://i.pinimg.com/originals/64/05/48/6405485515b3b174791de353155243cb.jpg" align="right">
 <li>
 <b>Website</b> https://dogination.com
 </li>
