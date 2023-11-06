@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
+[![dogination](https://svg.bookmark.style/api?url=https://github.com/dogination/dogination.github.io&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
