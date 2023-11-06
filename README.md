@@ -5,7 +5,8 @@
 
 ### Hi there 👋
 
-#<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
+<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
+
 
 <h2 align="center"> ~ 𝓞𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓢𝔂𝓼𝓽𝓮𝓶 ~ </h2>
 <p float="left">
