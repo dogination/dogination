@@ -5,7 +5,13 @@
 
 ### Hi there 👋
 <h2 align="center"> ~ 𝓞𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓢𝔂𝓼𝓽𝓮𝓶 ~ </h2>
-<img src="https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png" width="35"/> <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/> <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/> <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
+<p float="left">
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png" width="35"/>
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/> 
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/>
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
+</p>
+
 <h2 align="center"> ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ </h2>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
