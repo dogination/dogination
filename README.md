@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/80304438?v=4" width="100"/>
 </div>
-<h3 align="center">dogination</h3>
+<h1 align="center">dogination</h1>
 
 <p align="center">
   <strong><a href="https://www.dogination.com">Website</a></strong> |
