@@ -4,6 +4,8 @@
 <h3 align="center">dogination</h3>
 
 ### Hi there 👋
+## OS
+<img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png"/>
 
 <!--
 **dogination/dogination** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
