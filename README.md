@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 ## OS
-!(https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png)
+![archlinux](https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png)
 <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/>
 <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/>
 <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
