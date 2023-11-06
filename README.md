@@ -13,6 +13,9 @@
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
 <li>
+<b>arch user btw</b>
+</li>
+<li>
 <b>Website</b> https://dogination.com
 </li>
 
