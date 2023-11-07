@@ -21,7 +21,7 @@
 
 <h2 align="center"> ~ 𝓞𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓢𝔂𝓼𝓽𝓮𝓶s ~ </h2>
 <p float="left">
-  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/128x128/ARL.png" width="35"/>
+  <img src="https://github.com/relliv/operating-system-logos/blob/master/src/128x128/LIN.png" width="35"/>
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/WIN.png" width="35"/> 
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/MAC.png" width="35"/>
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/IOS.png" width="35"/>
