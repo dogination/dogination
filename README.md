@@ -13,7 +13,7 @@
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
 <li>
-<b>arch user btw</b>
+<b>arch user btw</b> https://github.com/dogination/archdotfile
 </li>
 <li>
 <b>Website</b> https://dogination.com
