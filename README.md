@@ -9,11 +9,10 @@
 
 ### Hi there 👋
 
+<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
   <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" align="right">
   </div>
-
-<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
 <li>
 <b>arch user btw</b> https://github.com/dogination/archdotfile
 </li>
