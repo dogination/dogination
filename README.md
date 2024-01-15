@@ -29,10 +29,6 @@
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/AND.png" width="35"/>
 </p>
 
-<h2 align="center"> ~ 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 ~ </h2>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 projects
 [![dogination](https://svg.bookmark.style/api?url=https://github.com/dogination/dogination.github.io&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
 
