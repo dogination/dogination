@@ -9,6 +9,7 @@
 
 ### Hi there
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwcHU1d2Z4MzMzODB3dWR1eTFodzh4Y2YyZ285Z3pnYjhhZGV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgtX0RS7ObVoXEnsBl/giphy.gif" width="20%" align="left">
+/br
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
   <div align="center">
@@ -20,6 +21,8 @@
 <li>
 <b>Website</b> https://dogination.com
 </li>
+/br
+/br
 
 <h2 align="center"> ~ 𝓞𝓹𝓮𝓻𝓪𝓽𝓲𝓷𝓰 𝓢𝔂𝓼𝓽𝓮𝓶s ~ </h2>
 <p float="left">
