@@ -8,12 +8,15 @@
 </p>
 
 ### Hi there
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwcHU1d2Z4MzMzODB3dWR1eTFodzh4Y2YyZ285Z3pnYjhhZGV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgtX0RS7ObVoXEnsBl/giphy.gif" width="20%" align="left">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwcHU1d2Z4MzMzODB3dWR1eTFodzh4Y2YyZ285Z3pnYjhhZGV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgtX0RS7ObVoXEnsBl/giphy.gif" width="10%" align="left">
+</br>
+</br>
+</br>
 </br>
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
   <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" width="20%" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" hight="400" width="500" alt="GIF" align="right">
   </div>
 <li>
 <b>arch user btw</b> https://github.com/dogination/archdotfile
