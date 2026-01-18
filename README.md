@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://avatars.githubusercontent.com/u/80304438?v=4" width="100"/>
 </div>
-<h1 align="center">Dogination</h1>
+<h1 align="center">. ݁₊ ⊹ . ݁ Dogination ݁ . ⊹ ₊ ݁.</h1>
 
 <p align="center">
   <strong><a href="https://www.dogination.com">Website</a></strong> | <strong><a href="https://github.com/dogination/archdotfile">dotfiles</a></strong>
@@ -16,7 +16,7 @@
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
   <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" hight="10%" width="10%" alt="GIF" align="right">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" hight="12%" width="12%" alt="GIF" align="right">
   </div>
 <li>
 <b>Website:</b> https://dogination.com
@@ -44,7 +44,8 @@ I experiment with phones like </b> <a href="https://dogination.com/posts/linux-p
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/AND.png" width="35"/>
 </p>
 
-## Projects
+<h2 align="center"> ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ </h2>
+
 [![dogination](https://svg.bookmark.style/api?url=https://github.com/dogination/dogination.github.io&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
 
 [![archdotfile](https://svg.bookmark.style/api?url=https://github.com/dogination/archdotfile&mode=light&style=horizontal)](https://github.com/dogination/archdotfile)
