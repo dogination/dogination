@@ -9,8 +9,8 @@
 
 ### Hi there
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGtwcHU1d2Z4MzMzODB3dWR1eTFodzh4Y2YyZ285Z3pnYjhhZGV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QgtX0RS7ObVoXEnsBl/giphy.gif" width="10%" align="left">
-</br>
-</br>
+
+
 
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓜𝓮 ~ </h2>
   <div align="center">
