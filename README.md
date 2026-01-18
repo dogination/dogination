@@ -35,7 +35,7 @@
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/AND.png" width="35"/>
 </p>
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁 projects
+## Projects
 [![dogination](https://svg.bookmark.style/api?url=https://github.com/dogination/dogination.github.io&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
 
 [![archdotfile](https://svg.bookmark.style/api?url=https://github.com/dogination/archdotfile&mode=light&style=horizontal)](https://github.com/dogination/archdotfile)
