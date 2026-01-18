@@ -18,7 +18,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p6cnl0YnAxZWYwYm5jbmUwejU0ZWFua2hzOXU5bTN0ZGU1ZW9mdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jIqh3ym2s7GU/giphy.gif" hight="10%" width="10%" alt="GIF" align="right">
   </div>
 <li>
-<b>arch user btw</b> https://github.com/dogination/archdotfile
+<b>arch user btw :3</b> https://github.com/dogination/archdotfile
 </li>
 <li>
 <b>Website</b> https://dogination.com
