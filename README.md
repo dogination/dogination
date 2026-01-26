@@ -54,7 +54,7 @@ I experiment with phones like </b> <a href="https://dogination.com/posts/linux-p
 - ![windows](https://github.com/dogination/windows)  
 - ![nokia2780](https://github.com/dogination/nokia2780)
 
-## ⚡️ Stats
+<h2 align="center"> ~ 𝓢𝓽𝓪𝓽𝓼 ~ </h2>
 
 <br>
 <div align=center>
