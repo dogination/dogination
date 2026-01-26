@@ -52,7 +52,18 @@ I experiment with phones like </b> <a href="https://dogination.com/posts/linux-p
 
 - ![archdotfile](https://github.com/dogination/archdotfile)  
 - ![windows](https://github.com/dogination/windows)  
-- ![nokia2780](https://github.com/dogination/nokia2780)  
+- ![nokia2780](https://github.com/dogination/nokia2780)
+
+## ⚡️ Stats
+
+<br>
+<div align=center>
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=dogination&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="dogination's Most Used Languages" />
+</div>
+<hr>
+
+![](https://komarev.com/ghpvc/?username=dogination&color=ff69b4)
+<a href="https://dogination.com" target="_blank"><img src="https://img.shields.io/badge/Personal%20Site-dogination.com-pink"></a>
 
 <!--
 **dogination/dogination** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
