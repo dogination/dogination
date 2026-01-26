@@ -50,9 +50,9 @@ I experiment with phones like </b> <a href="https://dogination.com/posts/linux-p
 
 <h2 align="center"> ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ </h2>
 
-[![dogination](https://svg.bookmark.style/api?url=https://github.com/dogination/dogination.github.io&mode=light&style=horizontal)](https://github.com/dogination/dogination.github.io)
-
-[![archdotfile](https://svg.bookmark.style/api?url=https://github.com/dogination/archdotfile&mode=light&style=horizontal)](https://github.com/dogination/archdotfile)
+- ![archdotfile](https://github.com/dogination/archdotfile)  
+- ![windows](https://github.com/dogination/windows)  
+- ![nokia2780](https://github.com/dogination/nokia2780)  
 
 <!--
 **dogination/dogination** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
