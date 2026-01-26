@@ -44,7 +44,8 @@ I experiment with phones like </b> <a href="https://dogination.com/posts/linux-p
   <img src="https://github.com/relliv/operating-system-logos/blob/master/src/48x48/AND.png" width="35"/>
 </p>
 
-<img src="https://github.com/dogination/archdotfile/raw/master/hyprland_screenshot.png" width="30%" align="centre">
+<img src="https://github.com/dogination/archdotfile/raw/master/hyprland_screenshot.png" width="30%" align="left">
+<img src="https://github.com/dogination/windows/blob/master/windows.png" width="30%" align="centre">
 
 <h2 align="center"> ~ 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ </h2>
 
